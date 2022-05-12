@@ -1,6 +1,5 @@
 # msf-gear-calc
-
-# displays what gears and how many of them are required
+displays what gears and how many of them are required
 
 ## Requirements
 ### Character name from msf.gg
